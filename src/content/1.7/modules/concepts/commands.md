@@ -19,7 +19,7 @@ If you load and use PrestaShop Core legacy classes such as an ObjectModel within
 Removing this limitation is being explored for future PS versions.
 {{% /notice %}}
 
-Let's see an example of a really common task when we usually use CRON scripts: you want to export your products into an XML file in order to import them into an another platform (a PIM or an ERP).
+Let's see an example of a really common task when we usually use CRON scripts: you want to export your products into an XML file in order to import them into another platform (a PIM or an ERP).
 
 You could rely on the webservices, but they are not really easy to configure. This is how you can do it using a PrestaShop command.
 
