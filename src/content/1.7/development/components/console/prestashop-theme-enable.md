@@ -8,7 +8,7 @@ title: prestashop:theme:enable
 
 * Path: `src/PrestaShopBundle/Command/ThemeEnablerCommand.php`
 * Arguments:
-  * `theme`: Module on which the action will be executed
+  * `theme`: Directory name of the theme to enable
 
 ## Description
 
